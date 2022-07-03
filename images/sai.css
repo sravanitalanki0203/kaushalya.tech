@@ -1,0 +1,94 @@
+.image{
+    height: 10vh;
+    border-radius: 5vh;
+}
+.bg-container{
+    background-color: blanchedalmond;
+    height: 100vh;
+    text-align: center;
+}
+
+.bg-ccbp-acadamy{
+    background-color: whitesmoke;
+    height: 100vh;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: blue;
+    border-style: double;
+}
+.image-ccbp{
+    height: 30vh;
+}
+.backgroundgraduate{
+background-color: greenyellow;
+padding: 5px;
+border-radius: 10px;
+margin-right: 25px;
+font-size: medium;
+}
+.backgroundfinalyear{
+    background-color: wheat;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 25px;
+    font-size: medium;
+    }
+    .background12th{
+        background: greenyellow;
+        padding: 5px;
+        border-radius: 10px;
+        margin-right: 25px;
+        font-size: medium;
+        }
+        .anybranch{
+            background: bisque;
+            padding: 5px;
+            border-radius: 10px;
+            margin-right: 25px;
+            font-size: medium;
+            }
+            .favourite-places-bg-container {
+                background:black;
+                height: 100vh;
+                background-size: cover;
+              }
+              
+              
+              .favourite-places-heading {
+                color: white;
+                font-family: "Roboto";
+                font-size: 28px;
+                font-weight: bold;
+                padding: 24px;
+              }
+              
+              .favourite-place-card-container {
+                background: cadetblue;
+                border-radius: 8px;
+                padding: 20px;
+                margin: 10px;
+              }
+              
+              .favourite-place-card-heading {
+                color: #0f0e46;
+                font-family: "Roboto";
+                font-size: 23px;
+                font-weight: bold;
+              }
+              
+              .favourite-place-card-description {
+                color: whitesmoke;
+                font-family: "Roboto";
+                font-size: 13px;
+              }
+.course{
+    background-color: red;
+    height: 100vh;
+    background: cover;
+    
+}
+
+#contact{
+    height: 100vh;
+    background: cover;
+}
